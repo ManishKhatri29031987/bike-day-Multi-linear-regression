@@ -1,1 +1,1 @@
-Bike data linear regression
+Bike data multi linear regression
